@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "minecraftserverproject-407408",
+  "private_key_id": "cdc59b23c3ceab833f9b08745d54bd7f02e00225",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjmzhRDDbcwwzc\n/lU8d9O5oWoEgOp0freXjDlKL3bPf2EGAgaZ6aT9rxG7dY1CAR9K+bN73TVHglMz\nrDf5mKBdJ+oJCvsyxBh95dxC0BsC3WYtbK5YPpDIPQQe2aS+j9hcV9xQFM+48tLc\n6A9j313LRthSt0BHLIxQYgrrI2eJth/Ao8VI13wQzMDpYp5y8pYLXQFMwJp39LK/\ntrMNR1ZxS+zRljT8tioBgSbhmUTqcyrcxirfkIASrqNKtVKeYxoE9Uhlh3yymgWi\nXtQg6GnOqM9PaKBhIkPJVwDxL19/v+WLS/AOMmbvLCVZEon8YsoQhaq/jY+rxYnh\n+udSV56tAgMBAAECggEAD0DsUAAlyFDmLN+IlmXsp1DBl/BmC5z55IcGG2DQALoV\nU3BSabyzLZTKQDJOTIJaxsx/m7OM4WEo/TcYE+0TPIQ5aYTs1Tebufc5oUASWKLI\nQUFyAte4e3bW4MJ1fe/e4gMuDwhVsp5vIvn+31amwcpV5mZf95LTdTYi4vfu0hOy\n+L7juj+Eh/or6XV4a2hWupiMY+TK+vbB7S0fGhWWz8KSbFANK3IG84I9gK5+frqj\nD3fiX1N7mirJm/aB9B9WK5nUajkKjc4N1tD8ex7IvTSoIeASRBi/2HsMbRHdvLHr\nC5Z70eZMoVsbq/KXx4X5owzfStISu4xqwoLtIRc04QKBgQDQRpKv8Qt5wHtEctpF\nPnOYT6KNM/saaCuL9j2ci9zpK6IQ6JltGIOkSGP4G0QmHhXpZ+Agr2pdAPPVH9jh\n3OcO8osHWaZYYn9zhiV3p5ly3+ahE6S8emdzSrw1qDWG2sFXDa0a+ZdxiysSEPlf\nWuRYKmfMlwyNJrk2u4f2/amaoQKBgQDJGFklopKL3HcSgCHE6pmnGpo+8/0nq2l2\nupj9vGNRuIdMBTS8GPqllYkbwcFifoO0cCKZDCJeiRZ+00gI83SNamCd/gYgCRAv\nTVLv74pmrq6ETyJJzuknm/0+ug2+r9bRYPOKhP+9dl2v47vfrtvbjRXnTfnOfT/C\n3E4FlQz0jQKBgBmnF5okDk3Ir2YW31t3/bTc2iCaLmtqOTLb+Wq2r1bo0OVUQNF3\nG3+4itecRCCNxBUjfi+Ia4lY/K9bZNMs6iilJwqYuCxatWf9NdAvDG9htH5SdQ/h\n46wHoHbbaPxbJUUboh6Yb1bE1WE8RfrAry9MycwhLqKUCmv7XRvG0oUBAoGANpAK\nsDF6PcSl8jkd8IYPBs4rB+W/zKGvze03UbFp6WR+IVxQQLEuYPs/5m4eAJF/Ptgm\nKwylzqy3k9XT98nG2BADAxtHoi2TXKJIXJ3MGaxP4cpu7UPc80hZ4EkvLYwcZ1c8\n/Vq04T1akjziXwDc2qdfSBFaNHK7eC26Zb1ZdIkCgYBrXmJPq+r7EoPvLcdOhAmD\njgToemENPqDrRFTcGPtf9EKGama+040GN25x37s7vI6t6SgbFNmLjlNoCZZzRlO8\nvkfgShz2xGXJe9iRAcEP922ybcHHux49w3zy+c3hR92WfLqBy5j/tsLHmgf9Qojj\nyk6n9JT3/AUD2OUiGnbLsg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "groverii@minecraftserverproject-407408.iam.gserviceaccount.com",
+  "client_id": "100914234752521307889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/groverii%40minecraftserverproject-407408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

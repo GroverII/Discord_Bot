@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\Discord_Bot\\CSharpScriptExecutor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{737327DB-ED14-4BA8-BADA-8BA88D840295}|CSharpScriptExecutor\\CSharpScriptExecutor.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\discord_bot\\csharpscriptexecutor\\csharpscriptexecutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737327DB-ED14-4BA8-BADA-8BA88D840295}|CSharpScriptExecutor\\CSharpScriptExecutor.csproj|solutionrelative:csharpscriptexecutor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{737327DB-ED14-4BA8-BADA-8BA88D840295}|CSharpScriptExecutor\\CSharpScriptExecutor.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\discord_bot\\csharpscriptexecutor\\csharpscriptexecutor\\clases\\messagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{737327DB-ED14-4BA8-BADA-8BA88D840295}|CSharpScriptExecutor\\CSharpScriptExecutor.csproj|solutionrelative:csharpscriptexecutor\\clases\\messagedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2AE7F7-79BC-4AB0-83A7-1B6C3E8F6FE0}|DiscordCheck\\DiscordCheck.csproj|c:\\users\\grigo\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\discord_bot\\csharpscriptexecutor\\discordcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2AE7F7-79BC-4AB0-83A7-1B6C3E8F6FE0}|DiscordCheck\\DiscordCheck.csproj|solutionrelative:discordcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageData.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\Discord_Bot\\CSharpScriptExecutor\\CSharpScriptExecutor\\Clases\\MessageData.cs",
+              "RelativeDocumentMoniker": "CSharpScriptExecutor\\Clases\\MessageData.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\Discord_Bot\\CSharpScriptExecutor\\CSharpScriptExecutor\\Clases\\MessageData.cs",
+              "RelativeToolTip": "CSharpScriptExecutor\\Clases\\MessageData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:30:10.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\Discord_Bot\\CSharpScriptExecutor\\CSharpScriptExecutor\\Program.cs",
+              "RelativeDocumentMoniker": "CSharpScriptExecutor\\Program.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\Discord_Bot\\CSharpScriptExecutor\\CSharpScriptExecutor\\Program.cs",
+              "RelativeToolTip": "CSharpScriptExecutor\\Program.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAwIMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:25:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\Discord_Bot\\CSharpScriptExecutor\\DiscordCheck\\Program.cs",
+              "RelativeDocumentMoniker": "DiscordCheck\\Program.cs",
+              "ToolTip": "C:\\Users\\grigo\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\examples\\Discord_Bot\\CSharpScriptExecutor\\DiscordCheck\\Program.cs",
+              "RelativeToolTip": "DiscordCheck\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIAxwBUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:25:20.071Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
